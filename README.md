@@ -8,8 +8,8 @@ Hope you find it helpful!
 
 The script has only **5 lines of code**, and using [HuggingFace](https://huggingface.co/docs/transformers/task_summary) and [trafilatura package](https://trafilatura.readthedocs.io/en/latest/index.html):
 
-'''
+```
 conda install -c huggingface transformers
 
 pip install trafilatura
-'''
+```
